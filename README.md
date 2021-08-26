@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Adrian and I'm a Staff Software Engineer at [DAZN](https://www.dazn.com)
-- 👀 I’m interested in pizza, programming and cars
-- 📫 Reach me at [Twitter](https://twitter.com/AdrianLThomas/) or [LinkedIn](https://www.linkedin.com/in/adrianthomas/)
+- 👋  Hi, I’m Adrian and I'm a Staff Software Engineer at [DAZN](https://www.dazn.com)
+- 👀  I’m interested in pizza, programming and cars (not always in that order)
+- 📫  Reach me at [Twitter](https://twitter.com/AdrianLThomas/) or [LinkedIn](https://www.linkedin.com/in/adrianthomas/)
+- 👨‍💻  Want to know what it's [like to work with me](./working-with-me.md)?
