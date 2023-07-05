@@ -12,7 +12,6 @@
 - Multitasking, if I'm in a meeting you will likely have my full attention, but I'm probably not writing code or making detailed notes either
 
 ## How to work with me
-- I am an [ISFJ-A](https://www.16personalities.com/isfj-personality)
 - If you have feedback for me, please do it in private and be constructive so I can improve
 - When starting something new, I like to read through any material first
 - I find pairing productive yet exhausting, a balance works best for me
