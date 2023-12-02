@@ -1,4 +1,4 @@
 - 👋  Hi, I’m Adrian and I'm a Software Engineer at [Contentful](https://www.contentful.com)
 - 👀  I’m interested in pizza, programming and cars (not always in that order)
-- 📫  Reach me at [Twitter](https://twitter.com/AdrianLThomas/) or [LinkedIn](https://www.linkedin.com/in/adrianthomas/)
+- 📫  Reach me on [LinkedIn](https://www.linkedin.com/in/adrianthomas/)
 - 👨‍💻  Want to know what it's [like to work with me](./working-with-me.md)?
