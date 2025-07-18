@@ -12,7 +12,7 @@
 
 ## How to work with me
 - Feel free to be direct
-- If you have feedback for me, please do it in private and be constructive so I can improve
+- If you have feedback for me, please do it in private and be constructive so I can improve (in person or written is fine)
 - When starting something new, I like to read through any material first
 - I find pairing productive yet exhausting, a balance works best for me
 - I like async working, but feel free if you want to chit-chat too.
