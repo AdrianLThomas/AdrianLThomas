@@ -8,10 +8,10 @@
 - I'll speak up if I have a strong opinion for/against, if I'm quiet I'm probably in agreement
 
 ## What I'm not good at
-- Receiving positive feedback - I always like to hear it, but I feel awkward receiving it
 - Multitasking, if I'm in a meeting you will likely have my full attention, but I'm probably not writing code or making detailed notes either
 
 ## How to work with me
+- Feel free to be direct
 - If you have feedback for me, please do it in private and be constructive so I can improve
 - When starting something new, I like to read through any material first
 - I find pairing productive yet exhausting, a balance works best for me
