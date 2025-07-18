@@ -1,4 +1,4 @@
-- 👋  Hi, I’m Adrian and I'm a Software Engineer at [Monzo](https://monzo.com/)
+- 👋  Hi, I’m Adrian and I'm a Software Engineer at Monzo
 - 👀  I’m interested in pizza, programming and cars (not always in that order)
 - 📫  Reach me on [LinkedIn](https://www.linkedin.com/in/adrianthomas/)
 - 👨‍💻  Want to know what it's [like to work with me](./working-with-me.md)?
